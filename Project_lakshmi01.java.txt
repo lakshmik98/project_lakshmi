@@ -1,0 +1,7 @@
+class lakshmi
+{
+public static void main(Sting args[])
+{
+System.out.println("Halo project lakshmi");
+}
+}
